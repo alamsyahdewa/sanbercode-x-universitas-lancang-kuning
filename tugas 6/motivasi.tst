@@ -1,0 +1,1 @@
+motivasi saya ingin menjadi programer yang hebat
