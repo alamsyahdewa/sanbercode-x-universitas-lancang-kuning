@@ -20,7 +20,7 @@ CREATE TABLE books(
 
 3. insert data
 - users
-INSERT INTO users (name, email, password) VALUES ("Alam Syah Dewa", "alamsyahdewa08@gmail.com", "dewa123"), 
+INSERT INTO users (name, email, password) VALUES ("Alam Syah Dewa", "alamsyahdewa08gmail.com", "dewa123"), 
 ("Jane Doe", "jane@doe.com", "jenita123");
 
 - categories
