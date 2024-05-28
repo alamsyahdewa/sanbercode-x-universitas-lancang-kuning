@@ -22,3 +22,11 @@ Route::get('/daftar', [AuthController::class, 'daftar']);
 Route::post('/home', [AuthController::class, 'home']);
 
 
+Route::get('/data-table', function(){
+    return view('page.data-table');
+});
+
+
+Route::get('/table', function(){
+    return view('page.table');
+});
